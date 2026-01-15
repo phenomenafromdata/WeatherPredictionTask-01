@@ -1,1 +1,3 @@
+*Weather Prediction Task - 01*
+
 Matlab Files related to a version of experimental cognitive task "Weather Prediction", designed to study human category learning. Files and functions allow to: 1) Control hardware to run the task, using Psychtoolbox environment and 2) Analyze behavioral and physiological (pupil size) data from it.
